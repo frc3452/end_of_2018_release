@@ -6,7 +6,7 @@
 (see Health.java in Subsystems)
 
 # Configurable Amperage Testing based on CSV file 
-Code writes all neccesary files and programs to USB for configuration
+Code writes all neccesary files and programs for configuration to USB 
 Shortcut with Putty allows one click transfer 
 (See MotorChecker.java in util)
 
