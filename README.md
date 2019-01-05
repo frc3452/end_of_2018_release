@@ -18,7 +18,7 @@ Code backs up information every half second to file and reads on startup (variab
 (See GZSRX.java and GZSpark.java) 
 
 # Automatic logging of constructed Motor Controllers
-(See Drive.addLoggingValues
+(See Drive.addLoggingValues())
 
 # Odometry implemented - created by team 254 in 2018
 (See Drive.java and RobotStateEstimator.java)
