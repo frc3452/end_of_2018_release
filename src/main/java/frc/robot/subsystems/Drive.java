@@ -381,6 +381,7 @@ public class Drive extends GZSubsystem {
 			}
 		};
 
+		//AMPERAGE
 		for (GZSRX c : mTalons.values()) {
 			new LogItem("DRV-" + c.getGZName() + "-AMP") {
 				public String val() {
@@ -410,7 +411,6 @@ public class Drive extends GZSubsystem {
 					}
 				};
 			}
-
 		}
 
 		// VOLTAGE
